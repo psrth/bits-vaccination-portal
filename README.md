@@ -30,7 +30,7 @@ Having sorted out the logic and functioning of the portal, we now needed to devi
 
 The student portal is a clean interface that allows only certain batches to access the portal at one time. Once approved students log in with their BITS email, they can quickly see their vaccination status. They are then able to upload their vaccine certificate, signed parents consent form, date of arrival, location, and agree to certain health declarations. Once they add all their details, the lightning-fast portal updates instantly with the student’s new vaccination status.
 
-<img src="https://i.imgur.com/4sEUqdC.png" alt="BITS Vaccine Portal — Students" style="width:80%;"/>
+<img src="https://i.imgur.com/4sEUqdC.png" alt="BITS Vaccine Portal — Admin" style="width:80%;"/>
 
 The admin portal is a functional tool for the SWD team to quickly access any details they may require. Any authenticated member has controls over which batches can currently update their vaccination details. They also have the power to instantly download a physical copy of all the students in an Excel spreadsheet format. On the admin portal, they can filter down the students by batches/vaccination status/date of arrival or search by name in order to quickly access a group of students at once. Each student has their own page where the admin can see all their details, the uploaded PDFs and even manually update their status.
 
@@ -38,9 +38,9 @@ The admin portal is a functional tool for the SWD team to quickly access any det
 
 The reception to the portal has been amazing — students of all batches and branches alike have commended the easy-to-use nature of the portal and were easily able to provide all the requested data to the SWD. After two batches have used this portal to submit their information, the SWD now has access to all the data without having to manually scan even a single certificate in one, consolidated database.
 
-<img src="https://i.imgur.com/sX594WY.png" alt="BITS Vaccine Portal — Students" style="width:60%; border: 10px solid white;"/>
+<img src="https://imgur.com/9pYU2Ea.png" alt="BITS Vaccine Portal — Analytics" style="width:60%; border: 10px solid white;"/>
 
-With over 2200 users to date and counting, we’re extremely proud of the Vaccine Portal and honoured to be able to share this with our student body and the BITS administration.
+With over 4.5k users to date and counting, we’re extremely proud of the Vaccine Portal and honoured to be able to share this with our student body and the BITS administration.
 
 _(last updated on 12th September, 2021)_
 
